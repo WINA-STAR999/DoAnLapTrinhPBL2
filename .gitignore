@@ -1,0 +1,18 @@
+# Bỏ qua các file biên dịch
+*.exe
+*.o
+*.out
+*.app
+build/
+bin/
+
+# Bỏ qua cấu hình editor
+.vscode/
+.idea/
+
+# Bỏ qua file nhật ký hệ thống nhưng GIỮ LẠI file dữ liệu txt
+data/*.log
+!data/system.log
+
+# Bỏ qua các file markdown không mong muốn
+PROJECT_SPEC.md
