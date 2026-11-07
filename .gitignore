@@ -14,5 +14,5 @@ bin/
 data/*.log
 !data/system.log
 
-# Bỏ qua các file markdown không mong muốn
+#Bỏ qua file markdown
 PROJECT_SPEC.md
