@@ -1,5 +1,5 @@
-BK001|Cau Truc Du Lieu va Giai Thuat|Le Minh Hoang|Giao Trinh|2022|15|12
-BK002|Lap Trinh Huong Doi Tuong C++|Pham Van At|Giao Trinh|2021|10|0
-BK003|Design Patterns Elements of Reusable OO Software|Erich Gamma|Cong Nghe Phan Mem|2019|5|5
-BK004|Clean Architecture|Robert C. Martin|Cong Nghe Phan Mem|2020|8|7
-BK005|Giai Thuat va Lap Trinh|Le Minh Hoang|Tham Khao|2023|12|12
+BK001|Cau Truc Du Lieu va Giai Thuat|Le Minh Hoang|Giao Trinh|2022|15|12|A1-T2
+BK002|Lap Trinh Huong Doi Tuong C++|Pham Van At|Giao Trinh|2021|10|0|A1-T3
+BK003|Design Patterns Elements of Reusable OO Software|Erich Gamma|Cong Nghe Phan Mem|2019|5|5|B2-T1
+BK004|Clean Architecture|Robert C. Martin|Cong Nghe Phan Mem|2020|8|7|B1-T2
+BK005|Giai Thuat va Lap Trinh|Le Minh Hoang|Tham Khao|2023|12|12|C3-T1
